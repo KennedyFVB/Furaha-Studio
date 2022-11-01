@@ -1,7 +1,5 @@
-$(document).ready(function(){
-    $("#btn1").click(function () {
-        $(this).show()
-        alert("clicked one");
-    });
-  
+$(document).ready(function() {
+    $("#design_icon").click(function() {
+        $("#design").toggle();
+    })
 })
