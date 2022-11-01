@@ -82,7 +82,7 @@
     display: block;                       
     text-align: center;
     color: white;
-    background-image: url('/assets/backgrounds/c_image.jpg');
+    /* background-image: url('/assets/backgrounds/c_image.jpg'); */
     background-position: center center;
     background-size: cover;
     max-width: 100%;
